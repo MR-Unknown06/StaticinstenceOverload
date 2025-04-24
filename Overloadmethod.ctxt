@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Overloadmethod
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ overloadmethod\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=num
+comment1.target=void\ checkNumber(int)
+comment2.params=num\ type
+comment2.target=void\ checkNumber(int,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
